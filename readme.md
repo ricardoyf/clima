@@ -1,6 +1,6 @@
 # clima
 
-Mapa mental, apuntes ilustrados y juego de estudio sobre los climas, en gallego, castellano e inglés.
+Mapa mental, tabla comparativa, apuntes ilustrados y juego de estudio sobre los climas, en gallego, castellano e inglés.
 
 **Abrir:** https://ricardoyf.github.io/clima/
 
@@ -17,6 +17,23 @@ Las llaves permiten desplegar cada grupo. Al tocar un clima se muestran las pala
 **Ver clasificación completa** abre todos los grupos y cierra las explicaciones. **Cerrar todo** recoge el esquema. **Imprimir mapa** incluye los tres grupos y los ocho nombres, aunque estén plegados en pantalla.
 
 Los tres grupos de climas se distinguen de las cinco zonas climáticas, que se explican en la ficha del ecuador.
+
+## Comparar los mismos aspectos
+
+La pestaña **Tabla** organiza los ocho climas en filas y sus **temperaturas, precipitaciones y vegetación o paisaje** en columnas. Conserva los grupos templados, cálidos y fríos y permite estudiar con pocas palabras.
+
+**Completar** ofrece cuatro actividades:
+
+1. **Columnas:** identificar los tres encabezados.
+2. **Climas:** identificar los ocho nombres de fila.
+3. **Datos:** completar un dato de cada clima.
+4. **Mezcla:** tres encabezados, cuatro nombres y cuatro datos de las otras filas: once huecos, con pistas suficientes.
+
+Las filas se barajan dentro de sus grupos y las columnas cambian de posición junto con sus datos. El orden permanece al cambiar de idioma. Las respuestas equivalentes, como «Calor», comparten una opción válida.
+
+La práctica permite comprobar y corregir; el examen fija las respuestas al terminar y muestra la corrección. El progreso de estas actividades se registra por separado.
+
+La vegetación de alta montaña **no se especifica en esta lección**: aparece como «No se indica» y nunca se evalúa como un hueco. Eso no significa que no exista vegetación.
 
 ## Apuntes y juego
 
@@ -36,7 +53,10 @@ Las tres pestañas de idioma mantienen el mismo contenido y los mismos ejercicio
 - **Imprimir mapa:** únicamente la clasificación completa con llaves, grupos y nombres.
 - **Imprimir apuntes:** clasificación inicial y las 15 fichas del escalón elegido, agrupadas bajo sus categorías escritas.
 
-Ambas opciones usan el idioma seleccionado. Los conceptos y factores se imprimen en su propio apartado, fuera de los grupos de tipos de clima.
+- **Imprimir tabla:** los ocho climas y sus características completas.
+- **Examen + soluciones:** tabla con los huecos de la actividad elegida y solucionario en una página aparte.
+
+Todas estas opciones usan el idioma seleccionado. Los conceptos y factores se imprimen en su propio apartado, fuera de los grupos de tipos de clima.
 
 ## Guardarlo para otros cursos
 
@@ -89,7 +109,21 @@ nombre → palabras clave → frase → explicación → relación.
 
 Mantén visible su pertenencia al grupo. Permite retroceder y abrir la ficha correspondiente.
 
-3. Apuntes en cuatro escalones
+3. Detecta los patrones y conviértelos en ejercicios
+
+Además de clasificar, identifica por iniciativa propia qué aspectos se repiten al describir los elementos: propiedades, funciones, causas, consecuencias, etapas, ejemplos, semejanzas o diferencias.
+
+Si varios elementos comparten las mismas características de descripción, crea una tabla comparativa. Las filas serán los elementos y las columnas los aspectos comunes. Conserva las categorías y usa pocas palabras por celda. Por ejemplo: climas en las filas; temperaturas, precipitaciones y vegetación en las columnas. Confirma el patrón en el material y no impongas esas columnas a otros temas.
+
+Cuando la fuente no dé un dato, escribe «No se indica en la lección». No lo inventes ni lo conviertas en una pregunta.
+
+Incluye una pestaña de tabla con estudio y cuatro actividades progresivas: completar encabezados de columnas, nombres de filas, algunos datos y una mezcla. Antes de generar huecos, conserva pistas suficientes; una fila cuyo nombre esté oculto debe mantener los datos necesarios para reconocerla. Acepta respuestas equivalentes, sin penalizar etiquetas idénticas por proceder de filas distintas.
+
+Baraja filas dentro de sus grupos y columnas junto con sus datos. Mantén el orden y las respuestas al cambiar de idioma. No reveles respuestas en placeholders o etiquetas accesibles.
+
+Ofrece práctica con reintentos, examen con corrección final y un examen imprimible con solucionario en otra página. Guarda el progreso de las tablas por separado del juego de fichas. Explica qué patrón has detectado y para qué sirve.
+
+4. Apuntes en cuatro escalones
 
 La clasificación es la entrada a estos cuatro escalones:
 
@@ -102,7 +136,7 @@ No elimines distinciones esenciales para reducir palabras. Cada nivel debe añad
 
 Usa dibujos sencillos cuando ayuden a entender. Una idea por ficha, letras claras, botones cómodos y poco ruido visual.
 
-4. Juego y examen
+5. Juego y examen
 
 Relaciona cada ejercicio con lo estudiado en su nivel:
 — Palabras: reconocer, clasificar y recordar.
@@ -114,7 +148,7 @@ Incluye rondas cortas y una opción de repaso del tema completo, con cobertura d
 
 Corrige automáticamente las preguntas cerradas. Para respuestas abiertas, muestra una respuesta orientativa y una lista de ideas para autoevaluarse. Identifica claramente esta autoevaluación. No simules comprender respuestas libres mediante coincidencias de palabras.
 
-5. Tres idiomas completos
+6. Tres idiomas completos
 
 Incluye Galego, Castellano y English, con gallego inicial salvo que yo indique otro idioma.
 
@@ -122,17 +156,19 @@ Traduce naturalmente todo: clasificación, apuntes, dibujos con texto, botones, 
 
 Cambiar de idioma conserva el mapa abierto, el ejercicio, las respuestas, el orden de opciones y el progreso. Usa identificadores comunes. Las frases ordenables deben resultar naturales y coincidir exactamente con la frase estudiada en cada idioma.
 
-6. Impresión
+7. Impresión
 
-Ofrece dos salidas distintas:
+Ofrece estas salidas distintas:
 — Mapa mental: clasificación completa desplegada, solo categorías y nombres, con sus llaves.
 — Apuntes: clasificación al principio y todas las fichas del nivel elegido, agrupadas bajo sus categorías escritas.
+— Tabla comparativa: todos los elementos y sus características.
+— Examen de tabla: los huecos de la actividad seleccionada, con solucionario en otra página.
 
 La impresión usa el idioma seleccionado. Los apartados plegados no desaparecen del papel. Conserva la jerarquía y la categoría de cada ficha; el color nunca debe ser la única pista. No confundas los apuntes de palabras clave con el contenido de los niveles superiores.
 
 Diseña para A4 y blanco y negro. Evita cortar fichas o separar títulos de su contenido. Si incluyes un examen imprimible, coloca el solucionario aparte.
 
-7. Conservación y accesibilidad
+8. Conservación y accesibilidad
 
 Entrega un HTML autónomo con CSS, JavaScript, datos y dibujos incorporados, sin dependencias externas necesarias para funcionar. Debe abrirse sin conexión.
 
@@ -140,7 +176,7 @@ Incluye descarga del HTML, progreso local y exportación e importación de una c
 
 Adapta el diseño a móvil y ordenador, con teclado, botones accesibles, buen contraste y textos legibles.
 
-8. Revisión y entrega
+9. Revisión y entrega
 
 Prueba desplegables, niveles, ejercicios, traducciones, impresión y conservación del progreso. Comprueba que todas las categorías y conceptos de las fotos estén representados y que cada pregunta pueda responderse con lo estudiado.
 
